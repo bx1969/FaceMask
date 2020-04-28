@@ -19,8 +19,8 @@ html, body{
   height: 354px;
   width:600px;
   position: fixed;
-  bottom:calc(50% - 177px);
-  left: calc(50% - 300px);
+  bottom:calc(50% - 141px);
+  left: calc(50% - 240px);
   opacity: 0.5;
   background-image: url("mask-template.png");
   background-repeat: no-repeat;
