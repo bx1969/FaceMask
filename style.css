@@ -21,7 +21,7 @@ html, body{
   position: fixed;
   bottom:calc(50% - 141px);
   left: calc(50% - 240px);
-  opacity: 0.5;
+  opacity: 0.7;
   background-image: url("mask-template.png");
   background-repeat: no-repeat;
   object-fit: contain;
