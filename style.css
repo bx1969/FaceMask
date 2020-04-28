@@ -14,9 +14,21 @@ html, body{
     transform: scaleX(-1);
     filter: FlipH;
 }
+#mask--template{
+
+  height: 354px;
+  width:600px;
+  position: fixed;
+  bottom:calc(50% - 177px);
+  left: calc(50% - 300px);
+  opacity: 0.5;
+  background-image: url("mask-template.png");
+  background-repeat: no-repeat;
+  object-fit: contain;
+}
 #camera--trigger{
     width: 200px;
-    background-color: #565b87;
+    background-color: #ff0000;
     color: white;
     font-size: 16px;
     border-radius: 30px;
