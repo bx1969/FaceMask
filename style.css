@@ -16,8 +16,8 @@ html, body{
 }
 #mask--template{
 
-  height: 354px;
-  width:600px;
+  height: 283px;
+  width:480px;
   position: fixed;
   bottom:calc(50% - 141px);
   left: calc(50% - 240px);
